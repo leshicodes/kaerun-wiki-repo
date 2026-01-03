@@ -1,7 +1,7 @@
 ### Basics
 - **NAME:** Kasonde 
 - **RACE:** Human (Variant)
-- **CLASS (and** archetype): Cleric (Knowledge Domain)
+- **CLASS (and archetype):** Cleric (Knowledge Domain)
 - **BACKGROUND:**  Sage (Field Auditor) 
 - **ALIGNMENT:** Lawful Neutral
 ---
