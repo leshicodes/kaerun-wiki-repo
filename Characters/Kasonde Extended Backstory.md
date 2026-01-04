@@ -1,153 +1,3 @@
-# Kasonde
-
-## Basics
-- **NAME:** Kasonde 
-- **RACE:** Human (Variant)
-- **CLASS (and archetype):** Cleric (Knowledge Domain)
-- **BACKGROUND:** Sage (Field Auditor) 
-- **ALIGNMENT:** Lawful Neutral
-
----
-
-## Summary
-
-Kasonde is a "Field Auditor" for the Library of the Unseen Lady, a Lentrian order dedicated to the goddess Ioun. Born in a kingdom defined by its military defense against barbarian hordes, Kasonde developed a militant discipline toward information gathering. He utilizes a telekinetically floating "Codex" and an animated quill to transcribe reality in real-time, filing completed volumes into a meticulously organized Bag of Holding. While he enjoys the comforts of a tavern and the company of storytellers, he possesses a cold, violent intolerance for those who attempt to falsify the historical record. He has recently infiltrated the Empire of Ventria alone to document the truth behind Emperor Gorban's propaganda. It was here, deep behind enemy lines, that he encountered the Half-Elf Lore Bard Leena and the disenfranchised noble Malanur Blackstar, forming an alliance of outcasts in a kingdom of lies.
-
----
-
-## Names and Locations
-
-- **Lentria:** Kasonde's homeland. A martial "Shield Kingdom" that holds the line against the Nadir tribes.
-- **The Library of the Unseen Lady:** A massive, fortress-like archive in Lentria dedicated to Ioun. Kasonde's base of operations.
-- **High Archivist Maren:** The current leader of the Library. A woman who has learned to weigh truth against consequence, and who approved Kasonde's Ventrian assignment despite knowing it was not entirely professional.
-- **Archivist Havel:** Kasonde's mentor within the Library. A man who taught him that ink is more durable than stone, provided the ink is applied with conviction.
-- **Ventria:** The neighboring Empire and current setting. A totalitarian state ruled by the "God Emperor" Gorban, serving as a black hole for information that Kasonde intends to illuminate.
-- **Caphis:** A Ventrian port city where Kasonde's contact, Darya Vance, worked in the Imperial Census Bureau. The site of a purge that killed eleven dissidents.
-- **Leena:** A Half-Elf Lore Bard whom Kasonde met in a Ventrian tavern. They share a professional partnership; she interprets the spirit of the age, while he records the literal facts.
-- **Malanur "Mal" Blackstar:** A companion known as "The Thin Pale Duke." A noble stripped of his titles and inheritance. Kasonde views him as a "Living Primary Source" regarding the fall of his house.
-- **Amara:** Kasonde's younger sister. A soldier in the Lentrian Shield Corps who died during the Thornfeld Garrison collapse. The date tattooed on Kasonde's wrist marks the day she was buried under stone and silence. She was twenty-three.
-- **Duke Aldric Varn:** A Lentrian noble whose hunting expedition requisitioned the supplies meant for Thornfeld Garrison. The man whose comfort cost Amara her life. His crimes are documented in a sealed Codex, marked for release in 1251.
-- **Darya Vance:** A Ventrian informant whom Kasonde cultivated during his intelligence work. They never met in person. They communicated through dead drops and coded letters for two years. She was discovered and executed on the 3rd of the Harvest Moon, 1243. Kasonde carries her final letter, unopened, in his document case.
-- **Duke Alaric Verantus:** A Ventrian exile who lived in Lentria for nineteen years before fleeing back to Ventria with a stolen transcript of his own confession. Wanted for arson, attempted murder, and obstruction of the Archive. The man who may have sold Darya's network to purchase his return to Imperial favor. Kasonde's unfinished business.
-
----
-
-## Description & Personalization
-
-### Physicality
-
-He possesses the frame of a man who forgets to eat, yet walks twenty miles a day. He is lean, composed of wire and gristle rather than bulk.
-
-- **Hands:** His most defining feature. His fingertips are stained a permanent, bruising indigo. It does not look like surface dirt; it looks as if the ink has soaked through the dermal layers and entered his bloodstream, a frostbite of knowledge.
-- **His Tic:** His left eye holds a permanent, subtle squint; a muscle memory etched by decades of deciphering faded script in flickering candlelight. When he listens to someone speak, he tilts his head, that squint deepening as if he is physically reading the words hanging in the air.
-- **His Mark:** On the inside of his left wrist, stark against the pale skin, is a tattoo of a single date: *7th of the Frost Moon, 1231*. He does not touch it or speak of it, but when a decision weighs heavy, his gaze drifts there, finding an anchor in the numbers.
-
-### Attire
-
-- **His Coat:** Over his armor, he wears a long, heavy duster made of canvas boiled in beeswax. It smells of rain, old parchment, and ozone. It is stiff and waterproof, designed not to keep him dry, but to ensure that if he is caught in a storm, the books beneath it survive.
-- **The Case:** He carries no rucksack. Slung across his back is a square, hard-shelled leather case with reinforced brass corners. It looks like something a diplomat would carry treaties in. It is pristine, contrasting sharply with the dust on his boots. Inside: Darya's unopened letter, the letters she sent him that he kept, and an empty space where a transcript should be.
-
-### Magic & Effects
-
-- **Ink:** When Kasonde channels the divine, he does not glow with holy light. The magic manifests as a darkening. The veins in his neck and forearms turn obsidian black, pulsing rhythmically. It looks as though liquid ink is being pumped through his arteries, surging toward his fingertips to rewrite the reality of the battlefield.
-- **Codex:** The book hovers at his shoulder with a heavy, physical presence. It does not bob whimsically; it hangs in the air with the stability of a stone shelf. The quill moves with sharp, staccato jerks-scratch, scratch, stop-mimicking the cadence of Kasonde's own thoughts.
-
-### Behavioral Quirk
-
-- **His Tell:** Kasonde is usually a man of dry wit and active listening. But when a lie is told, his change is instant and looming.
-  - He stops blinking.
-  - He goes perfectly, terrifyingly still.
-  - The scratching of the quill cuts off mid-word.
-  - The Codex snaps shut with a sound like a pistol crack.
-  - The quill slowly rotates in the air, aligning itself like a compass needle until the nib points directly at the liar's throat.
-  - He does not shout. He speaks with the quiet, flat affect of a judge reading a sentence.
-
-### A Moment in the Tavern
-
-*The tavern is loud, a wash of spilled ale and bad violins. Kasonde sits at the corner table, his wax coat dripping rain onto the floorboards. He takes a sip of dark stout, his eyes scanning the room, squinting slightly as if checking the structural integrity of the beams.*
-
-*A local merchant leans over the table, boasting loudly to Leena about how he single-handedly fought off three bandits on the river road. Kasonde's glass pauses halfway to his mouth. The frantic scratching of the quill by his ear stops dead. The book snaps shut, silencing the table.*
-
-*Kasonde lowers the glass. The veins in his hand darken to a bruised violet. He looks at the merchant, his unblinking gaze heavy. "Three bandits," Kasonde says, his voice soft but carrying effortlessly over the din. "Curious. The river road has been closed for repairs for months. And your boots... they have mud from the river valley, not the high road dust."*
-
-*The quill turns, pointing at the merchant's chest.*
-
-*"Try again. For the record."*
-
----
-
-## Character Flaws
-
-Kasonde distrusts moral certainty, seeing confidence without scrutiny as a liability rather than a virtue. He is unsettled by closed questions, divine mandates, and claims of inevitability, preferring doubt over conviction unless certainty has been thoroughly tested.
-
-He forms connections through usefulness rather than emotional openness, expressing care by anticipating needs and solving problems instead of offering reassurance. This makes him reliable but distant, uncomfortable with gratitude or intimacy that lacks a clear function.
-
-He does not fear death so much as being simplified by memory. Having seen people reduced to symbols and stories that erase nuance, he avoids shaping narratives about himself, downplays his role in success, and resists being cast as a hero or authority, believing true understanding is fragile and easily distorted.
-
-### Discomfort With Moral Certainty
-
-Kasonde is not skeptical of morality. He is skeptical of confidence, seeing it as a blind spot.
-
-What troubles him is not belief, faith, or conviction, but the moment someone decides the question is closed. He has seen too many decisions justified by "there was no other way," later revealed to have been *the most convenient way.*
-
-He listens carefully to people who believe they are right. Not to debate them, but to locate the moment where doubt should exist and does not.
-
-When certainty appears unexamined, he disengages. When certainty survives scrutiny, he respects it quietly.
-
-**How it shows:**
-- He asks clarifying questions that feel almost supportive, then stops talking.
-- He reacts more strongly to confident mistakes than hesitant ones.
-- He becomes visibly uneasy when others invoke inevitability, destiny, or divine mandate as justification.
-- He wants to believe some things can be unquestionably right. He just has not seen it often enough to trust it.
-
-### Intimacy Through Utility
-
-Kasonde was never taught how to be emotionally present without a role.
-
-He learned that being valuable meant being necessary. Anticipating needs. Solving problems before they were voiced. Removing burdens quietly so others could keep moving.
-
-This makes him dependable and difficult to reach.
-
-When someone is hurting, his instinct is to *fix the conditions* around the pain rather than sit inside it. He is uncomfortable when there is nothing actionable to do.
-
-**How it shows:**
-- He performs acts of care that go unnoticed unless pointed out.
-- He becomes awkward when thanked directly.
-- He struggles when someone wants reassurance instead of solutions.
-- He wants connection, but only understands it when it has edges, tasks, or stakes. Love without function feels unreal to him, even when he wants it.
-
-### Fear of Being Remembered Incorrectly
-
-Kasonde does not fear death. He fears simplification.
-
-He has seen people reduced to stories that strip out contradiction, doubt, and context. Heroes without hesitation. Villains without reason. Useful lies that make history easier to swallow.
-
-He knows that if he is remembered at all, it will not be as he understands himself.
-
-This makes him careful with words, reluctant to explain his motives, and resistant to anyone shaping a narrative around him.
-
-**How it shows:**
-- He downplays his role in successes.
-- He corrects flattering exaggerations without bitterness.
-- He avoids telling stories about himself unless pressed.
-- Part of him wants to be known. Another part believes that being known truthfully is impossible, and that trying only accelerates distortion.
-
----
-
-## Full Backstory
-
-### Circumstances of Birth & Cultural Heritage
-
-To be born in Lentria is to breathe air mixed with the dust of the Nadir Steps. It is a kingdom defined by the shield wall-a place where a child learns the sound of a warning bell before they learn a lullaby. He absorbed the grim Lentrian philosophy: that a lie is a crack in the armor, and the man who forgets the past is already dead. He was not forged in fire, but in the cold, unyielding pressure of absolute necessity.
-
-Kasonde was raised in the shadow of this doctrine. He learned that a sword can kill a man, but a forgotten supply line can kill an army. He saw firsthand that the greatest enemy of the state was not the barbarian horde, but the incompetence of command. The lost map, the forgotten treaty, the ignored scout. While his peers trained to hold the line with iron, Kasonde learned to hold it with ink. He adopted the Lentrian axiom that truth is not a philosophy to be debated, but a tactical asset to be defended.
-
-### Early Life
-
-The Library of the Unseen Lady took him in, a boy with eyes too old for his face. It was a place of dust and echoing stone, where the Goddess did not demand prayers, but receipts. The training was a quiet cruelty. Novitiates were forced to transcribe texts until their fingers bled, copying the tactical errors of dead generals until the lessons were burned into their dreams.
-
-Kasonde's awakening was born of agony. Deep in the freezing scriptorium, his hand cramped into a useless claw, paralyzed by exhaustion. Yet, the history was not finished. He stared at the quill, weeping with frustration, his mind screaming for the ink to flow. And the quill obeyed. It lifted, shivering, and dipped itself into the well, driven not by muscle, but by the sheer, desperate force of his need to witness. In that moment, the boy died, and the Vessel was born. He realized he was no longer a writer; he was the inkwell itself. A scribe who could write a death warrant while looking his target in the eye.
-
 ### Amara
 
 She was three years younger and twice as brave.
@@ -155,8 +5,6 @@ She was three years younger and twice as brave.
 Kasonde remembers her hands more than her face. Calloused palms, split knuckles, a scar across the left thumb from a training accident she refused to explain. When they were children, those hands would drag him out of the library and into the courtyard, forcing wooden swords into his grip, insisting he learn to defend himself. *"Words won't stop a Nadir axe,"* she'd say. *"But a blade might buy you time to run."*
 
 He was terrible at swordplay. She never stopped trying to teach him.
-
-Amara joined the Shield Corps at seventeen. Rose through the ranks with the kind of competence that made superior officers nervous. By twenty-two, she commanded a garrison on the Nadir Steps-Thornfeld, a stone outpost clinging to a mountain pass like a tooth in a broken jaw.
 
 Kasonde visited her once, during a research expedition along the border. She had grown lean and weathered, her laughter rougher than he remembered. There was grey in her hair-just a few strands at the temple, premature, earned. But when she embraced him, she still smelled like home-iron and hearth-smoke and the soap their mother used to make.
 
@@ -198,9 +46,9 @@ Kasonde did something worse. He verified them.
 
 #### The Aftermath
 
-He spent four months tracing the chain of requisition orders. He identified the officers who signed the redirections. He found the Duke who commandeered the food stores-a man named **Aldric Varn**, whose hunting party had feasted on salted pork while Amara's soldiers ate boot leather and snow.
+He spent four months tracing the chain of requisition orders. He identified the officers who signed the redirections. He found the Duke who commandeered the food stores a man named **Aldric Varn**, whose hunting party had feasted on salted pork while Amara's soldiers ate boot leather and snow.
 
-He compiled everything into a Codex. Sixty-three pages. Every signature. Every date. Every lie of omission that led to one hundred and forty-two deaths in a frozen pass.
+He compiled everything into a Codex. Sixty three pages. Every signature. Every date. Every lie of omission that led to one hundred and forty-two deaths in a frozen pass.
 
 He did not sleep during those four months. He ate when the quill reminded him, sharp jabs against his shoulder until he acknowledged his own hunger. He spoke to no one except sources. He pursued the documentation with the cold precision of a man performing surgery on himself-cutting, cataloguing, refusing to feel until the work was done.
 
@@ -228,9 +76,7 @@ Kasonde stared at her. The quill at his shoulder had gone very still.
 
 Maren met his eyes. She looked tired. She looked like someone who had made this calculation before.
 
-*"Yes,"* she said. *"Probably."*
-
----
+*"Yes," she said. "Probably."*
 
 Kasonde left the Codex on her desk. He walked out of the Library. He did not return for three years.
 
@@ -250,13 +96,13 @@ He checks the seal every time he returns to the Library. It has never been broke
 
 Archivist Havel once found him there, standing in the restricted stacks with his hand pressed against the spine of a book he could not open.
 
-*"You did the right thing,"* Havel said. *"The truth will survive."*
+*"You did the right thing," Havel said. "The truth will survive."*
 
-*"The truth isn't enough,"* Kasonde replied. *"It was never enough."*
+*"The truth isn't enough," Kasonde replied. "It was never enough."*
 
-He dreams of her sometimes. Never the death-his mind is merciful enough to spare him that. He dreams of the courtyard. The wooden swords. Her voice, exasperated and fond: *"Guard up, brother. You're leaving your whole left side open."*
+He left for Ventria the following month.
 
-He wakes with his left arm aching, as if expecting a blow that never comes.
+Some days, he wonders if he is documenting Gorban's lies to save a foreign kingdom-or simply because he failed to save his own.
 
 The tattoo on his wrist reads: *7th of the Frost Moon, 1231*.
 
@@ -265,16 +111,6 @@ He does not need the reminder. He has never forgotten.
 But forgetting was never the point.
 
 ---
-
-### Middle & Adult Life: The Return
-
-He returned to the Library in 1234, thinner and quieter than before. Archivist Havel welcomed him back without comment. High Archivist Maren assigned him to court commissions-the kind of work that paid well and demanded discretion. She was giving him a chance to rebuild.
-
-He took it. He became a ghost in the courts of the great. For years, Kasonde drifted through banquet halls and war rooms, his floating Codex scribbling in the corner. He saw the vanity of Kings and the deceit of Queens, recording it all with dispassionate precision.
-
-He told himself he had made peace with the compromise. He told himself the Thornfeld Codex would have its day.
-
-He was wrong on both counts.
 
 ---
 
@@ -298,7 +134,7 @@ By the sixth month, the letters had grown longer.
 
 She told him about Ventria in ways the official reports never captured. The fear that lived beneath the marble facades. The way neighbors stopped speaking to each other after the Loyalty Audits began. The children who reported their parents for insufficient enthusiasm during the Emperor's birthday celebrations.
 
-She described the smell of the harbor at dawn-salt and tar and the peculiar sweetness of rotting fish-and admitted she found it beautiful, despite everything. She wrote about a stray cat that lived behind the Census Bureau, how she fed it scraps from her lunch, how it was the only creature in Caphis that did not ask her to lie.
+She described the smell of the harbor at dawn salt and tar and the peculiar sweetness of rotting fish-and admitted she found it beautiful, despite everything. She wrote about a stray cat that lived behind the Census Bureau, how she fed it scraps from her lunch, how it was the only creature in Caphis that did not ask her to lie.
 
 She asked about Lentria. He told her about the warning bells, the weight of snow on the mountain passes, the way the Library smelled of dust, candle wax, and centuries. He told her about Amara-the first time he had spoken of his sister to anyone since her death.
 
@@ -340,6 +176,8 @@ Unremarkable.
 
 The word sits in his memory like a splinter that will not work its way out.
 
+---
+
 #### The Letter
 
 Among her effects-seized by the state, then quietly liberated by what remained of the network-was a letter. Addressed to no one. Written in a cipher only Kasonde could read.
@@ -348,7 +186,7 @@ It arrived at the Library in the winter of 1243, passed hand to hand through a c
 
 He has not opened it.
 
-The letter sits in his document case, beside the letters she sent him and the empty space where a transcript should be. The paper has yellowed slightly. The wax-plain, unmarked-remains intact.
+The letter sits in his document case, beside the transcript that no longer exists and the seal that no longer matters. The paper has yellowed slightly. The wax-plain, unmarked-remains intact.
 
 He tells himself he is waiting for the right moment. A quiet evening. A safe place. The emotional bandwidth to absorb whatever she wanted him to know.
 
@@ -370,6 +208,8 @@ He does not open it.
 
 He is not ready to stop hoping.
 
+---
+
 #### What Remains
 
 Darya Vance does not have a Codex entry.
@@ -390,11 +230,44 @@ He has not decided which.
 
 ---
 
+#### The Connection
+
+There is one more thread. One more truth that Kasonde has pieced together in the years since her death.
+
+The dissident network that gave him Darya-the couriers, the dead drops, the funding that kept the resistance alive-belonged to Duke Alaric Verantus.
+
+The Duke had been playing both sides for years. Funding dissidents to gather intelligence, then selling that intelligence to the Empire when it suited him. Using idealists as tools, discarding them when they became liabilities.
+
+The network was compromised six months after the fire. Six months after Alaric fled to Ventria with Kasonde's transcript in his possession. Six months after the Duke needed to purchase his way back into Imperial favor.
+
+Kasonde cannot prove that Alaric sold them. He cannot prove that Darya's name was on a list the Duke handed to the Loyalty Auditors in exchange for sanctuary.
+
+But he suspects.
+
+The suspicion sits in his chest like a stone, cold and unmoving. It wakes him some nights. It sharpens his quill when he writes.
+
+Aldous Verantus was a traitor who killed four thousand soldiers.
+
+Alaric Verantus may be a traitor who killed eleven idealists-and one woman who fed a stray cat behind the Census Bureau and crossed her 't's with a slight upward flourish.
+
+The grandfather's chapter is complete.
+
+The grandson's chapter waits to be written.
+
+And somewhere in Kasonde's document case, next to the evidence he intends to recover and the grief he refuses to release, a letter waits to be opened.
+
+Someday.
+
+Not yet.
+
+---
+
+
 ### The Duke: Alaric Verantus
 
 He met the traitor in a Lentrian drawing room, drinking Lentrian wine, speaking flawless Lentrian dialect. The irony was not lost on Kasonde then. It burns brighter now.
 
-Duke Alaric Verantus is Ventrian by blood, birth, and inheritance-but he had not set foot in his homeland for nineteen years. When Emperor Gorban's father began the purges that would eventually birth the Loyalty Audits, Alaric read the winds with the precision of a man whose family had survived three dynasties by knowing when to leave. He liquidated what he could, bribed whom he must, and fled west with enough gold to purchase a modest estate in the United Human Kingdoms.
+Duke Alaric Verantus is Ventrian by blood, birth, and inheritance-but he has not set foot in his homeland for nineteen years. When Emperor Gorban's father began the purges that would eventually birth the Loyalty Audits, Alaric read the winds with the precision of a man whose family had survived three dynasties by knowing when to leave. He liquidated what he could, bribed whom he must, and fled west with enough gold to purchase a modest estate in the United Human Kingdoms.
 
 Modest, by ducal standards. Three hundred acres of Lentrian farmland. A manor house with seventeen rooms. A wine cellar older than some nations.
 
@@ -406,9 +279,9 @@ He was also, Kasonde would eventually learn, still working for Ventria.
 
 The Verantus chronicle was meant to be simple.
 
-Alaric approached the Library in 1242, requesting a genealogical history of his family. A vanity project-the kind exiled nobles commission to remind themselves they were once significant. The pay was generous. The work was straightforward. Kasonde accepted because the Library encouraged such commissions; they funded the expeditions that mattered.
+Alaric approached the Library five years ago, requesting a genealogical history of his family. A vanity project-the kind exiled nobles commission to remind themselves they were once significant. The pay was generous. The work was straightforward. Kasonde accepted because the Library encouraged such commissions; they funded the expeditions that mattered.
 
-The research took him into Lentrian archives first. The Verantus family had, over generations, maintained correspondence with Lentrian merchants, diplomats, and-during certain conflicts-military officers. Standard fare for a noble house with cross-continental interests.
+The research took him into Lentrian archives first. The Verantus family had, over generations, maintained correspondence with Lentrian merchants, diplomats, and-during certain conflicts-military officers. Standard fare for a border-spanning noble house.
 
 Then he found the discrepancy.
 
@@ -416,7 +289,7 @@ A name in a military ledger. A payment recorded in a quartermaster's log. A lett
 
 The thread was thin. He pulled it anyway.
 
-#### The Grandfather
+##### The Grandfather
 
 Three generations back, the Verantus family tree contained a man named Aldous Verantus. The official histories described him as a diplomat-a bridge-builder who maintained backchannel communication between Ventria and the United Kingdoms during the Territorial Wars. A man of peace.
 
@@ -429,6 +302,38 @@ After the war, when the borders stabilized and memories faded, Aldous had simply
 The truth had been buried in Lentrian archives-filed under a cipher, cross-referenced to nothing, forgotten by everyone except the dust.
 
 Until Kasonde.
+
+#### The Confrontation
+
+When Kasonde presented his findings, Duke Alaric did not rage. He did not threaten. He simply set down his wine glass-Lentrian red, from his own cellars-and said, very quietly, *"This chapter does not need to exist."*
+
+The Codex remained open on the desk between them. The quill had stopped moving.
+
+*"The chapter exists,"* Kasonde replied. *"The question is whether it remains in the final draft."*
+
+*"Then let me be clear."* Alaric leaned forward. His Ventrian accent, usually suppressed, crept into the consonants. *"My grandfather's actions were a response to impossible circumstances. The Empire was losing. My family's survival required flexibility. What you call treason, I call foresight."*
+
+*"Four thousand soldiers died at Solen Fields."*
+
+*"Four thousand Ventrian soldiers. In a war Ventria started, fighting for territory Ventria had no right to claim." Alaric spread his hands-a gesture of reasonableness, of perspective. "My grandfather shortened that war by years. He saved lives. Lentrian lives. Is that not worth something to a Lentrian archivist?"*
+
+The quill rotated slowly, its nib drifting toward the Duke's chest.
+
+Kasonde watched it move. He did not stop it.
+
+*"The truth is not a transaction,"* he said. *"It does not balance lives against lives. It simply is."*
+
+Alaric's eyes followed the quill. When he spoke again, his voice had changed-softer, more careful. The voice of a man recalculating.
+
+*"You are a Field Auditor. You travel. You gather information in places the Library cannot easily reach."* He paused. *"Ventria, for example."*
+
+The quill stopped.
+
+*"I may be an exile,"* Alaric continued, *"but I am not severed. I maintain... relationships. Contacts within the Imperial bureaucracy. Access to documents that do not officially exist. The kind of access that a man in your position might find invaluable."*
+
+*"You're offering me a bribe."*
+
+*"I am offering you a resource. The truth about my grandfather is a century old. The truth about Gorban's empire is being written now, in blood and silence. Which matters more to you, Archivist? A dead man's treason, or a living tyrant's lies?"*
 
 #### The Confrontation
 
@@ -484,7 +389,7 @@ After nineteen years of exile, Duke Alaric Verantus returned to Ventria. And Ven
 
 The chapter on Aldous Verantus survived. Kasonde had made copies, as he told the Duke he would. The truth about the grandfather's treason is now filed in the Archive, cross-referenced and catalogued, available to any scholar with sufficient clearance.
 
-But the grandfather was already dead. Had been dead for a century. His crimes were history-important, damning, but *settled*. The grandfather could not be tried. The grandfather could not be punished. The grandfather was beyond the reach of anything except memory.
+But the grandfather was already dead. Had been dead for a century. His crimes were history-important, damning, but **settled**. The grandfather could not be tried. The grandfather could not be punished. The grandfather was beyond the reach of anything except memory.
 
 The grandson was not.
 
@@ -540,39 +445,11 @@ Not the injustice of it. Injustice is familiar. He has documented enough of it t
 
 What keeps him awake is simpler: he was *outmaneuvered*.
 
-He walked into that drawing room with the truth as his weapon, and the Duke took it from him. Not through violence. Not through magic. Through fire and timing and the understanding that a document, once destroyed, cannot testify.
-
 Kasonde has spent his life believing that the truth, properly recorded, is indestructible.
 
 Alaric taught him otherwise.
 
-#### The Connection
-
-There is one more thread. One more truth that Kasonde has pieced together in the years since her death.
-
-The dissident network that gave him Darya-the couriers, the dead drops, the funding that kept the resistance alive-belonged to Duke Alaric Verantus.
-
-The Duke had been playing both sides for years. Funding dissidents to gather intelligence, then selling that intelligence to the Empire when it suited him. Using idealists as tools, discarding them when they became liabilities.
-
-The network was compromised six months after the fire. Six months after Alaric fled to Ventria with Kasonde's transcript in his possession. Six months after the Duke needed to purchase his way back into Imperial favor.
-
-Kasonde cannot prove that Alaric sold them. He cannot prove that Darya's name was on a list the Duke handed to the Loyalty Auditors in exchange for sanctuary.
-
-But he suspects.
-
-The suspicion sits in his chest like a stone, cold and unmoving. It wakes him some nights. It sharpens his quill when he writes.
-
-Aldous Verantus was a traitor who killed four thousand soldiers.
-
-Alaric Verantus may be a traitor who killed eleven idealists-and one woman who fed a stray cat behind the Census Bureau and crossed her 't's with a slight upward flourish.
-
-The grandfather's chapter is complete. Filed and sealed and preserved for eternity.
-
-The grandson's chapter has not yet been written. The evidence has not yet been recovered. The transcript-Kasonde's own words, bearing his own seal-waits in enemy hands.
-
----
-
-### The Hunt
+#### The Hunt
 
 The official Lentrian position is that Alaric Verantus is a fugitive from justice, wanted for arson, attempted murder, and obstruction of the Archive. The warrant remains active. It will remain active until he is captured or confirmed dead.
 
@@ -592,11 +469,11 @@ The chapter on Aldous Verantus is filed and sealed. The grandfather's treason is
 
 Kasonde requested assignment to Ventria three months after the fire.
 
-#### The Request
+#### The Reason
 
 The Library was reluctant. Ventria was dangerous-a totalitarian state where independent scholars were treated as spies and inconvenient truths were capital offenses. The risk was significant. The potential return was uncertain.
 
-Kasonde made his case in writing. Forty-seven pages. A comprehensive analysis of the information vacuum surrounding Emperor Gorban's regime, the propaganda structures that maintained it, and the historical atrocities being erased in real time. He argued that the Archive had a duty to document what the Empire was destroying. He argued that the Goddess demanded witness where witness was forbidden.
+Kasonde made his case in writing. Forty seven pages. A comprehensive analysis of the information vacuum surrounding Emperor Gorban's regime, the propaganda structures that maintained it, and the historical atrocities being erased in real time. He argued that the Archive had a duty to document what the Empire was destroying. He argued that the Goddess demanded witness where witness was forbidden.
 
 He did not mention Alaric Verantus.
 
@@ -622,7 +499,7 @@ Kasonde did not answer. The quill at his shoulder rotated slowly, thoughtfully, 
 
 He met her eyes. The same eyes that had told him to bury his sister's truth. The same voice that had asked him to wait, to calculate, to weigh lives against politics.
 
-*"I understand,"* he repeated, *"that the truth is patient. It can wait for the right moment. It can hide in restricted stacks and sealed files and unopened letters."* He touched the document case at his hip-the case that held Darya's letter, the case that had survived the fire. *"But it does not forget. And neither do I."*
+*"I understand,"* he repeated, *"that the truth is patient. It can wait for the right moment. It can hide in restricted stacks and sealed files and unopened letters."* He touched the document case at his hip-the case that held Elara's letter, the case that had survived the fire. *"But it does not forget. And neither do I."*
 
 Maren held his gaze for a long moment. Then she looked away.
 
@@ -652,19 +529,35 @@ He does not know that the hunt has already begun.
 
 He will learn.
 
----
+#### What Connects Them
 
-### Starting Our Adventure
+There is one more thread. One more name that binds the Archivist to the Duke, though neither of them knew it at the time.
 
-The Empire of Ventria called to him like a void. It was a kingdom of white marble and white lies, where Emperor Gorban had sanitized the past so thoroughly that the country felt dreamlike and hollow. Kasonde crossed the border in 1244, a spy in a land of enforced joy.
+The dissident network that Kasonde contacted in Caphis-the network that gave him Elara Vance-was not a Library operation. The Library had identified the asset, but the network itself belonged to someone else. A benefactor who funded resistance cells throughout Ventria, who moved money and information through channels the Empire could not trace.
 
-He found himself in a border tavern, drowning in the suffocating propaganda of the Empire. Then, a melody cut through the noise. He watched Leena, a Half-Elf Bard, weaving a song that felt raw and messy and real. It wasn't perfect history; she sang of golden swords where there were only rocks, but it had a pulse.
+The network belonged to Alaric Verantus.
 
-He approached her, intent on a cold correction, but found himself staying for the warmth. Beside her sat Malanur Blackstar, a man who wore his lost inheritance like a funeral shroud. In the Bard and the Exile, Kasonde saw kindred spirits: three broken things in a kingdom that demanded perfection. He realized that to save the history of this land, he could not just be a witness on the wall. He had to descend into the mud with them.
+The Duke had been playing both sides for years. Funding dissidents to gather intelligence, then selling that intelligence to the Empire when it suited him. Using idealists as tools, discarding them when they became liabilities.
 
-And somewhere in this empire of lies, a Duke sleeps soundly, believing himself safe.
+Kasonde did not know this when he first contacted Elara. He did not know that the woman he was falling in love with was, in some distant and terrible sense, a piece on a board the Duke controlled.
 
-He is wrong.
+He knows it now.
+
+The network was compromised six months after the fire. Fourteen arrests. Eleven executions. The purge swept through Caphis like a scythe, and when it was done, Elara Vance was dead.
+
+Kasonde cannot prove that Alaric sold them. He cannot prove that the Duke, fleeing to Ventria with Lentrian authorities on his heels, purchased his safe passage with the names of every dissident in his network.
+
+But he suspects.
+
+The suspicion sits in his chest like a stone, cold and unmoving. It wakes him some nights. It sharpens his quill when he writes.
+
+Aldous Verantus was a traitor who killed four thousand soldiers.
+
+Alaric Verantus may be a traitor who killed eleven idealists-and one woman who fed a stray cat behind the Census Bureau and crossed her 't's with a slight upward flourish.
+
+The grandfather's chapter is complete. Filed and sealed and preserved for eternity.
+
+The grandson's chapter has not yet been written. The evidence has not yet been recovered. The transcript-Kasonde's own words, bearing his own seal-waits in enemy hands.
 
 Kasonde intends to finish it.
 
